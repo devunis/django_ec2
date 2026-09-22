@@ -9,7 +9,7 @@ djangorestframework==3.16.0
 drf-nested-routers==0.94.1
 drf-yasg==1.21.10
 fastapi==0.115.12
-gunicorn==23.0.0
+gunicorn==26.2.0
 h11==0.14.0
 idna==3.10
 inflection==0.5.1
